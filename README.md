@@ -25,8 +25,13 @@ Styling: CSS with flexbox and grid for responsive design
 
 ![image](https://github.com/user-attachments/assets/d891f6b4-7707-40d9-9a7b-e01f82de88e1)
 
+![image](https://github.com/user-attachments/assets/273fd19b-4980-4ed2-8f58-03d5ea297f1b)
 
-![image](https://github.com/user-attachments/assets/d8fcfd7f-88dc-4dcd-8ed8-4cc50c6cdbce)            ![image](https://github.com/user-attachments/assets/7b6d5858-9e39-43af-8b5b-ef97b4ac5f56)
+
+
+![image](https://github.com/user-attachments/assets/eed10252-22e3-4390-abaa-50037ab01d5f)
+             ![image](https://github.com/user-attachments/assets/34d26630-418b-43c4-92d1-e6d31c626275)
+
 
 
 
